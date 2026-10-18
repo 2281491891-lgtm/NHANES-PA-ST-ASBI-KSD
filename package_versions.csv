@@ -1,0 +1,7 @@
+"package","version","role"
+"R","4.4.3","Runtime"
+"dplyr","1.1.4","Core"
+"survey","4.4.8","Core"
+"Hmisc","5.2.4","Core"
+"ggplot2","4.0.0","Core"
+"openxlsx","4.2.8.1","Optional Excel export"
